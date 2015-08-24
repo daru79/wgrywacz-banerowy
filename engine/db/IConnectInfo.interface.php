@@ -1,10 +1,10 @@
 <?php
 
 interface IConnectInfo {
-    const HOST = "sql.4people.pl";
-    const UNAME = "01109512_banner";
-    const PW = "U1NnJoYa4d@h";
-    const DBNAME = "01109512_banner";
+    const HOST = "";
+    const UNAME = "";
+    const PW = "";
+    const DBNAME = "";
     
     public static function doConnect();
 }
